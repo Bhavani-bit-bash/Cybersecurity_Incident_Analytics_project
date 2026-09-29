@@ -173,14 +173,23 @@ git clone https://github.com/Bhavani-bit-bash/Cybersecurity_Incident_Analytics_p
 Cybersecurity_Incident_Analytics_new.ipynb
 ```
 
-4. Run the notebook cells in order from **Stage 1 to Stage 8**.
+4. Run the notebook cells in order.
 
 ## 👥 Team
 
-**Project:** Cybersecurity Incident Analytics
+**Team Number:** 18
 
-**GitHub Repository:**  
-[Cybersecurity Incident Analytics Project](https://github.com/Bhavani-bit-bash/Cybersecurity_Incident_Analytics_project)
+**Team Name:** Cybersecurity Incident Analytics 
+
+### 👨‍💻 Team Members
+
+| **S.No.** | **Name** | **Roll Number** | **Responsibility / Contribution** |
+|---|---|---|---|
+| 1 | D.V.G.Bhavani | 26B21CS156 | Data Loading, Data Acquisition, Filtering & Documentation |
+| 2 | U.S.S.V.Varma | 26B21CS135 | Data Extraction, Validation & Cleaning  & Documentation |
+| 3 | B.Ashajyothi  | 26B21CS163 | Data Aggregation, Analysis, Visualization & Presentation|
+| 4 | P.G Malaya Sri| 26B21CS148 | Results, Interpretation,Visualization & Presentation |
+
 
 
 
