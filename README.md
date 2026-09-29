@@ -149,6 +149,13 @@ The data is **loaded, filtered, extracted, validated, cleaned, aggregated, analy
 - **CSV**
 - **Git**
 - **GitHub**
+## 📦 Requirements
+
+Install the required Python libraries using:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## ▶️ How to Run
 
