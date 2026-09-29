@@ -1,0 +1,7 @@
+Attack Type,Banking,Education,Government,Healthcare,IT,Retail,Telecommunications
+DDoS,71,73,71,78,91,62,85
+Malware,61,70,64,81,67,68,74
+Man-in-the-Middle,77,65,53,58,80,70,56
+Phishing,96,73,68,63,89,89,51
+Ransomware,69,71,72,77,74,71,59
+SQL Injection,71,67,75,72,77,63,78
